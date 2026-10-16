@@ -17,9 +17,11 @@
   <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" alt="Project Status" />
 </p>
 
-✨ About The Project
+---
 
-Zaitoun is a modern website project designed to showcase a clean user interface, responsive layouts, and engaging visual effects using HTML and CSS.
+## 📖 About The Project
+
+**Zaitoun** is a modern, multi-section website developed to practice and demonstrate front-end development skills using **HTML5 and CSS3**.
 
 The project focuses on responsive layouts, reusable design patterns, CSS animations, interactive hover effects, and visually appealing components. It combines a variety of website sections into one cohesive interface with a consistent color scheme and carefully organized styling.
 
