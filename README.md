@@ -1,18 +1,18 @@
-# 🌐 Zaitoun — Responsive Website
-
 <p align="center">
-  <strong>A Modern Multi-Section Website Built with HTML5 & CSS3</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Welcome+to+Zaitoun+%F0%9F%91%8B;Modern+%26+Responsive+Design;Built+with+HTML+%26+CSS" alt="Animated typing title" />
 </p>
 
 <p align="center">
-  A stylish, responsive front-end project featuring modern layouts, smooth animations, interactive hover effects, and a clean user interface.
+  A modern, elegant, and fully responsive website built with pure HTML and CSS.
+  <br />
+  Featuring smooth transitions, creative animations, and beautifully organized sections.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Responsive-Design-2ea44f?style=for-the-badge" alt="Responsive Design">
-  <img src="https://img.shields.io/badge/Status-In%20Development-blue?style=for-the-badge" alt="Project Status">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Responsive-Design-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" alt="Project Status" />
 </p>
 
 ---
