@@ -1,3 +1,5 @@
+🌐 Zaitoun — Modern Responsive Website
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Welcome+to+Zaitoun+%F0%9F%91%8B;Modern+%26+Responsive+Design;Built+with+HTML+%26+CSS" alt="Animated typing title" />
 </p>
@@ -15,11 +17,9 @@
   <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" alt="Project Status" />
 </p>
 
----
+✨ About The Project
 
-## 📖 About The Project
-
-**Zaitoun** is a modern, multi-section website developed to practice and demonstrate front-end development skills using **HTML5 and CSS3**.
+Zaitoun is a modern website project designed to showcase a clean user interface, responsive layouts, and engaging visual effects using HTML and CSS.
 
 The project focuses on responsive layouts, reusable design patterns, CSS animations, interactive hover effects, and visually appealing components. It combines a variety of website sections into one cohesive interface with a consistent color scheme and carefully organized styling.
 
