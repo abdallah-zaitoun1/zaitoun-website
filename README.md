@@ -159,20 +159,20 @@ Open `index.html` in your browser, or use the **Live Server** extension in Visua
 - [ ] Add a live demo link
 - [ ] Refine the design across more screen sizes
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-**Abdullah Zaitoun** — Front-End Developer in Progress
+Abdullah Zaitoun
+
+Front-End Developer in Progress | Web Development Enthusiast
+
+🌐 Portfolio: abdullah-zaitoun.vercel.app
+
+📄 License
+
+No license has been specified for this project yet. Add a LICENSE file if you intend to define permissions for reuse, modification, and distribution.
 
 <p align="center">
-  <a href="https://abdullah-zaitoun.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-2196F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>Made with ❤️ and lots of CSS.</strong>
-  <br />
+  <strong>Designed & Built with ❤️ by Abdullah Zaitoun</strong>
+  <br>
   <sub>Learning, building, and improving one project at a time.</sub>
 </p>
